@@ -59,4 +59,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Dummy deployment
-        echo: "Deployment on GCP!!"
+        run: "Deployment on GCP!!"
